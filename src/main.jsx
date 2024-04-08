@@ -17,7 +17,7 @@ import Banner from './Banner';
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Root></Root>,
+    element: <Root></Root> ,
     children: [
       {
         path: "/Home",
