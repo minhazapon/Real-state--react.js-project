@@ -20,7 +20,7 @@ const Head = () => {
                      <span className=" text-yellow-600"> Real State</span></h1>
              </div>
 
-             <div className=' mt-10 flex justify-center  bg-pink-200 p-4 ml-10 mr-10 rounded-2xl'>
+             <div className=' mt-10 flex justify-center ml-10 mr-10 rounded-2xl'>
                 
                <Marquee>
                <p className=' text-3xl'>“Owning a home is a keystone of wealth…both financial affluence and emotional security.”</p>

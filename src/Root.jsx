@@ -6,7 +6,7 @@ import Home from './Home';
 
 const Root = () => {
     return (
-        <div>
+        <div >
             
 
 
