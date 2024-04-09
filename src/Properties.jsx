@@ -29,7 +29,7 @@ const Properties = () => {
               <Marquee>
 
               
-              <div className=' bg-violet-200  p-4 rounded-xl'>
+              <div className=' bg-violet-100  p-4 rounded-xl'>
               <div  className=" flex justify-center bg-no-repeat bg-contain h-[200px] w-[400px] rounded-xl"  style={{backgroundImage: 'url(../src/assets/images/p1.jpg)'}}   >
 
                    <div className=" text-black bg-slate-100 opacity-75 p-2 rounded-2xl mb-2 mt-32">
@@ -39,7 +39,7 @@ const Properties = () => {
               </div>
               </div>
 
-               <div  className=' bg-violet-200  p-4 rounded-xl' >
+               <div  className=' bg-violet-100 p-4 rounded-xl' >
                <div  className=" flex justify-center bg-no-repeat bg-contain h-[200px] w-[400px] rounded-xl"  style={{backgroundImage: 'url(../src/assets/images/p2.webp)'}}   >
 
                    <div className=" text-black bg-slate-100 opacity-75 p-2 rounded-2xl mb-2 mt-32">
@@ -50,7 +50,7 @@ const Properties = () => {
               </div>
                 
 
-                <div  className=' bg-violet-200  p-4 rounded-xl'  >
+                <div  className=' bg-violet-100 p-4 rounded-xl'  >
                <div  className=" flex justify-center bg-no-repeat bg-contain h-[200px] w-[400px] rounded-xl"  style={{backgroundImage: 'url(../src/assets/images/p3.webp)'}}   >
 
                    <div className=" text-black bg-slate-100 opacity-75 p-2 rounded-2xl mb-2 mt-32">
@@ -60,7 +60,7 @@ const Properties = () => {
               </div>
               </div>
 
-               <div  className=' bg-violet-200  p-4 rounded-xl' >
+               <div  className=' bg-violet-100  p-4 rounded-xl' >
                <div  className=" flex justify-center bg-no-repeat bg-contain h-[200px] w-[400px] rounded-xl"  style={{backgroundImage: 'url(../src/assets/images/p4.jpg)'}}   >
 
                    <div className=" text-black bg-slate-100 opacity-75 p-2 rounded-2xl mb-2 mt-32 -ml-20 w-[280px]">
@@ -71,7 +71,7 @@ const Properties = () => {
               </div>
 
 
-               <div  className=' bg-violet-200  p-4 rounded-xl'  >
+               <div  className=' bg-violet-100 p-4 rounded-xl'  >
                <div  className=" flex justify-center bg-no-repeat bg-contain h-[200px] w-[400px] rounded-xl"  style={{backgroundImage: 'url(../src/assets/images/p5.jpg)'}}   >
 
                    <div className=" text-black bg-slate-100 opacity-75 p-2 rounded-2xl mb-2 mt-32">
@@ -81,7 +81,7 @@ const Properties = () => {
               </div>
               </div>
 
-                <div   className=' bg-violet-200  p-4 rounded-xl' >
+                <div   className=' bg-violet-100 p-4 rounded-xl' >
                <div  className=" flex justify-center bg-no-repeat bg-contain h-[200px] w-[350px] rounded-xl"  style={{backgroundImage: 'url(../src/assets/images/p6.jpg)'}}   >
 
                    <div className=" text-black bg-slate-100 opacity-75 h-[70px] p-2 rounded-2xl mb-2 mt-16">

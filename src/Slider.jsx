@@ -48,6 +48,7 @@ const Slider = () => {
               <a href="#slide1" className="btn btn-circle">❯</a>
             </div>
           </div>
+          -+++
         </div>
         
          </div>

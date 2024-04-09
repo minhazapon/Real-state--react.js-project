@@ -1,4 +1,5 @@
 import Banner from "./Banner";
+import Estate from "./Estate";
 import Properties from "./Properties";
 import Slider from "./Slider";
 
@@ -7,6 +8,7 @@ const Home = () => {
         <div>
            <Slider></Slider>
            <Banner></Banner>
+           <Estate></Estate>
            <Properties></Properties>
 
 
