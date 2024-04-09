@@ -1,0 +1,125 @@
+[
+    {
+      "id": "001",
+      "Image": "https://i.ibb.co/HHMs1MD/h-3.jpg",
+      "estate_title": "Premium Building",
+      "name": "Beautiful Land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+    },
+    {
+      "id": "002",
+      "Image": "https://i.ibb.co/LPZsqZW/e1.jpg",
+      "estate_title": "Premium Building",
+      "name": "Dream land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+      
+    },
+    {
+      "id": "003",
+      "Image": "https://i.ibb.co/HTQ3Skh/e2.jpg",
+      "estate_title": "Premium Building",
+      "name": "Big land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+  
+    },
+    {
+      "id": "004",
+      "Image": "https://i.ibb.co/zSH9wZz/s2.webp",
+      "estate_title": "Premium Building",
+      "name": "sleep land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+   
+    },
+    {
+      "id": "005",
+      "Image": "https://i.ibb.co/Z6jCXGk/e4.webp",
+      "estate_title": "Premium Building",
+      "name": "house land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+ 
+    },
+    {
+      "id": "006",
+      "Image": "https://i.ibb.co/DWXQT33/e5.jpg",
+      "estate_title": "Premium Building",
+      "name": "Our land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+    
+    },
+    {
+      "id": "007",
+      "Image": "https://i.ibb.co/kD397sH/e6.jpg",
+      "estate_title": "Premium Building",
+      "name": "sky land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+    },
+    {
+      "id": "008",
+      "Image": "https://i.ibb.co/7v2N6xb/s5.jpg",
+      "estate_title": "Premium Building",
+      "name": "fire land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+     
+    },
+    {
+      "id": "009",
+      "Image": "https://i.ibb.co/42sDJ4j/e7.webp",
+      "estate_title": "Local Building",
+      "name": "all land",
+      "description": " real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.",
+      "price": "50000$",
+      "Status ": "It can be “sale”, “rent” ", 
+      "Area": "for example- 2000 sq ft",
+      "location": "America",
+      "facilities": "Sports, Hospital, markets, School, collage"
+   
+    }
+  ]

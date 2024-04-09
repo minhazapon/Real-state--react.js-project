@@ -4,7 +4,7 @@ import '../src/assets/images/banner.jpg'
 
 const Banner = () => {
     return (
-        <div className=" ml-10 mr-10 mb-10 mt-10">
+        <div className=" ml-5 mr-5 mb-10 mt-10">
              
              <div>
 

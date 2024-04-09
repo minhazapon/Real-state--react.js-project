@@ -17,7 +17,7 @@ const Head = () => {
                     <h1 className=" text-4xl font-bold "> 
                     <span className=" text-blue-500"> Apon</span>
 
-                     <span className=" text-yellow-600"> Real State</span></h1>
+                     <span className=" text-yellow-600"> Real EState</span></h1>
              </div>
 
              <div className=' mt-10 flex justify-center ml-10 mr-10 rounded-2xl'>

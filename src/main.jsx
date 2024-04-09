@@ -12,6 +12,11 @@ import Root from './Root';
 import Home from './Home';
 import Head from './Head';
 import Banner from './Banner';
+import Login from './Login';
+
+import EstateSection from './EstateSection';
+import Register from './Register';
+import EstateDetails from './EstateDetails';
 
 
 const router = createBrowserRouter([
@@ -20,7 +25,7 @@ const router = createBrowserRouter([
     element: <Root></Root> ,
     children: [
       {
-        path: "/Home",
+        path: "/",
         element:  <Home></Home> ,
       },
       {
@@ -31,6 +36,24 @@ const router = createBrowserRouter([
         path: "/banner",
         element: <Banner></Banner> ,
       },
+      
+      {
+        path: "/login",
+        element: <Login></Login> ,
+      },
+      {
+        path: "/Estate",
+        element: <EstateSection></EstateSection> ,
+      },
+      {
+        path: "/register",
+        element: <Register></Register> ,
+      },
+      {
+        path: "/Details",
+        element: <EstateDetails></EstateDetails> ,
+      },
+    
     ],
   },
 ]);
