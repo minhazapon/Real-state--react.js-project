@@ -1,5 +1,6 @@
 import Banner from "./Banner";
 import Estate from "./Estate";
+import Get from "./Get";
 import Properties from "./Properties";
 import Slider from "./Slider";
 
@@ -10,6 +11,7 @@ const Home = () => {
            <Banner></Banner>
            <Estate></Estate>
            <Properties></Properties>
+           <Get></Get>
 
 
            
