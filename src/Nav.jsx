@@ -48,6 +48,8 @@ const Nav = () => {
                 
               
                </div>
+
+               <hr   className=" mb-5 mt-5"></hr>
                            
         </div>
     );

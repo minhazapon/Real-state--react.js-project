@@ -29,6 +29,8 @@ const Head = () => {
 
 
              </div>
+     
+             <hr className=' mt-10'></hr>
 
 
 

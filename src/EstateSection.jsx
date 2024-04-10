@@ -35,7 +35,7 @@ const EstateSection = () => {
             
 
             <div className=" flex justify-center">
-            <div className=" mb-10 mt-10 grid grid-cols-3 gap-5"  > 
+            <div className=" mb-10 mt-10 grid  md:grid-cols-3 gap-5"  > 
 
 
 

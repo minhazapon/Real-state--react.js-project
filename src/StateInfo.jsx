@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 const StateInfo = ({build}) => {
 
@@ -17,7 +18,13 @@ const StateInfo = ({build}) => {
               <p className=" text-2xl font-bold" > {name} </p>
               <p className=" text-2xl text-slate-400"> Price:  {price} </p>
               <div className="card-actions">
-                <button className="btn btn-primary w-[300px] text-xl text-white  ">View Properties</button>
+
+               <Link to="/Details"  >
+               <button className="btn btn-primary w-[300px] text-xl text-white  ">View Properties</button>
+               
+               </Link>
+
+               
               </div>
             </div>
           </div>

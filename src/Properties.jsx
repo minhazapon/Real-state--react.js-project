@@ -1,4 +1,5 @@
 
+import { Link } from 'react-router-dom'
 import '../src/assets/images/p1.jpg'
 
 import '../src/assets/images/p2.webp'
@@ -94,8 +95,11 @@ const Properties = () => {
               </Marquee>
 
               <div>
-
+                 <Link to="/Details"  >
+                 
                  <button className=' mt-10 btn text-xl bg-blue-500 text-white'>view more</button>
+
+                 </Link>
 
               </div>
  

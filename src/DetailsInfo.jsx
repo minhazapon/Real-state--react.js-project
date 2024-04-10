@@ -23,8 +23,6 @@ const DetailsInfo = ({details}) => {
 
                   <p className="py-6  text-xl"> {description} </p>
                   <p  className=" text-xl font-bold"  >Name: {name}  </p>
-              
-                  <p  className=" text-xl font-bold"  >Name: {name}  </p>
                   <p  className=" text-xl font-bold"  >Area: {Area}  </p>
                   <p  className=" text-xl font-bold"  >location: {location}  </p>
                   <p  className=" text-xl font-bold"  >facilities: {facilities}  </p>

@@ -9,7 +9,7 @@ const Login = () => {
 
             <div>
 
-            <div className="hero   ">
+            <div className="hero     flex-col md:flex-row lg:flex-row ">
 
             <div className=" flex-col lg:flex-row-reverse    ">
               <div className="text-center lg:text-left mb-5 mt-5">
