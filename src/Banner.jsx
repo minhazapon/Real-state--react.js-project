@@ -1,6 +1,6 @@
 
 
-import '../src/assets/images/banner.jpg'
+
 
 const Banner = () => {
     return (
@@ -13,7 +13,7 @@ const Banner = () => {
 
 
 
-             <div className="hero h-[550px] " style={{backgroundImage: 'url(../src/assets/images/banner.jpg)'}}>
+             <div className="hero h-[550px] " style={{backgroundImage: 'url(https://i.ibb.co/qm7ZXc8/banner.jpg)'}}>
              <div className="hero-overlay bg-opacity-60 flex md:flex-col lg:flex-row  "></div>
              <div className="hero-content  flex md:flex-col lg:flex-row">
                <div className="">

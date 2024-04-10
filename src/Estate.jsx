@@ -1,13 +1,5 @@
 
 
-import '../src/assets/images/e1.jpg'
-import '../src/assets/images/e2.jpg'
-import '../src/assets/images/e3.jfif'
-import '../src/assets/images/e4.webp'
-import '../src/assets/images/e5.jpg'
-import '../src/assets/images/e6.jpg'
-import '../src/assets/images/e7.webp'
-import '../src/assets/images/e8.webp'
 
 const Estate = () => {
     return (
@@ -20,14 +12,14 @@ const Estate = () => {
              <div className=' flex justify-center items-center'>
              <div id='hover' className=' mt-10 mb-10 grid  md:grid-cols-4 gap-5'>
 
-              <img className=' h-[200px] w-[300px] rounded-2xl' src='../src/assets/images/e1.jpg' alt="" />
-              <img className=' h-[200px] w-[300px] rounded-2xl' src= '../src/assets/images/e2.jpg'alt="" />
-              <img className=' h-[200px] w-[300px] rounded-2xl' src='../src/assets/images/e3.jfif' alt="" />
-              <img className=' h-[200px] w-[300px] rounded-2xl' src='../src/assets/images/e4.webp' alt="" />
-              <img className=' h-[200px] w-[300px] rounded-2xl' src='../src/assets/images/e5.jpg' alt="" />
-              <img className=' h-[200px] w-[300px] rounded-2xl' src='../src/assets/images/e6.jpg' alt="" />
-              <img className=' h-[200px] w-[300px] rounded-2xl' src='../src/assets/images/e7.webp' alt="" />
-              <img className=' h-[200px] w-[300px] rounded-2xl' src='../src/assets/images/e8.webp' alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src='https://i.ibb.co/WyQPXvF/p1.jpg' alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src= 'https://i.ibb.co/9whmRYc/e2.jpg'alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src='https://i.ibb.co/ZzHvYMc/e3.jpg' alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src='https://i.ibb.co/QXyYPp8/e4.webp' alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src='https://i.ibb.co/WGsYbCy/e5.jpg' alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src='https://i.ibb.co/yPj39wf/e6.jpg' alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src='https://i.ibb.co/42sDJ4j/e7.webp' alt="" />
+              <img className=' h-[200px] w-[300px] rounded-2xl' src='https://i.ibb.co/t3XVDCV/e8.webp' alt="" />
            
               
 

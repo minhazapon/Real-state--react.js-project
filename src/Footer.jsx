@@ -10,7 +10,7 @@ const Footer = () => {
 
            <footer className="footer p-10  bg-blue-600 text-neutral-content">
              <aside>
-                <img className=' h-[100px]' src='../src/assets/images/logo.png' alt="" />
+                <img className=' h-[100px]' src='https://i.ibb.co/MRNkNNt/logo.png' alt="" />
                <p className=" text-xl">APON Real state Industries Ltd.<br/>Providing real state service since 1992</p>
              </aside> 
              <nav>

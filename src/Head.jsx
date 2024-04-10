@@ -1,6 +1,4 @@
 
-import '../src/assets/images/logo.png'
-
 import Marquee from "react-fast-marquee";
 
 
@@ -12,7 +10,7 @@ const Head = () => {
             
               <div className=' mt-10 flex justify-center items-center gap-3 '>
 
-                  <img className=' h-[70px]' src='../src/assets/images/logo.png' alt="" />
+                  <img className=' h-[70px]' src='https://i.ibb.co/MRNkNNt/logo.png' alt="" />
 
                     <h1 className=" text-4xl font-bold "> 
                     <span className=" text-blue-500"> Apon</span>
